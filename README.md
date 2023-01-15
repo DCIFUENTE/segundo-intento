@@ -1,2 +1,3 @@
-# segundo-intento
-este repositorio es otro intento por que el primero nos quedo mal
+se supone que no debio de quedar bien 
+jajaja
+hola
